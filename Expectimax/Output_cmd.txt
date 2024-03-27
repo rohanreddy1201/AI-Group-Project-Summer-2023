@@ -1,0 +1,499 @@
+------ Game Counts:  1 ------
+- The Game is Over (max tile / max score): 1024.0     
+     4      16       2       4  
+     2       8      32       8  
+    16      64     512     128  
+    32    1024    2048    4096  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  941
+
+------ Game Counts:  2 ------
+- The Game is Over (max tile / max score): 2048.0
+     4     512      16       2  
+  2048    1024     128       4  
+   512      64      16       2  
+     2       8       2       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1020
+
+------ Game Counts:  3 ------
+- The Game is Over (max tile / max score): 1024.0
+  1024     256      64       8  
+   512     128      32       4  
+   256      64      16       2  
+     2       4       8     128  
+
+-* GAME LOST *-
+-* NO 2048 *-
+
+------ Game Counts:  4 ------
+- The Game is Over (max tile / max score): 2048.0
+     2     512    2048       2  
+    64     256    1024       4  
+     8      16      64     256  
+     4       8      32     128  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1019
+
+------ Game Counts:  5 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       4       8       2  
+     8      32       4      32  
+    16      64      16     128  
+  2048    1024     512       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  988
+
+------ Game Counts:  6 ------
+- The Game is Over (max tile / max score): 4096.0
+     2       4      64    4096  
+     8      32     256    1024  
+    16      64     128     512  
+     2      16       2      32  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  969
+
+------ Game Counts:  7 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       4    2048       4  
+   256     512      64      32  
+   128      64     128       2  
+     2       4      32       8  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  985
+
+------ Game Counts:  8 ------
+- The Game is Over (max tile / max score): 4096.0
+  4096     128      64       2  
+   512     256      32       4  
+     2     128      64      16  
+     4      16       8       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1042
+
+------ Game Counts:  9 ------
+- The Game is Over (max tile / max score): 4096.0
+     2       8    1024    4096  
+     8     512     256     512  
+    32     128      32      64  
+     8       2       8       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1004
+
+------ Game Counts:  10 ------
+- The Game is Over (max tile / max score): 4096.0
+     2      16       2       4  
+     4      64     128     256  
+    16     128     512       2  
+     4       8     256    4096  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1007
+
+------ Game Counts:  11 ------
+- The Game is Over (max tile / max score): 4096.0
+     4     128    1024    4096  
+    16      64     128     512  
+     2       8      32      64  
+     4       2       4       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  986
+
+------ Game Counts:  12 ------
+- The Game is Over (max tile / max score): 1024.0
+     2       4       2       4  
+  1024     256      64      32  
+     2     512     128      64  
+    32       8       4       2  
+
+-* GAME LOST *-
+-* NO 2048 *-
+
+------ Game Counts:  13 ------
+- The Game is Over (max tile / max score): 2048.0
+     4      16       4       2  
+     2      32    1024    2048  
+    16      64     128      64  
+     2       4      16       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  953
+
+------ Game Counts:  14 ------
+- The Game is Over (max tile / max score): 4096.0
+     2       4      16       2  
+     8     128      32       8  
+  1024     512     256      64  
+  4096       2       8       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  971
+
+------ Game Counts:  15 ------
+- The Game is Over (max tile / max score): 4096.0
+     4       8    2048    4096  
+     2      16     256     512  
+    16       8      32       8  
+     4       2       4       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1035
+
+------ Game Counts:  16 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       4       8       4  
+    64      32    1024    2048  
+    16      64      32      16  
+     4       2       4       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1041
+
+------ Game Counts:  17 ------
+- The Game is Over (max tile / max score): 2048.0
+     2    2048     256       2  
+  1024     128      64      16  
+   256      32      16       8  
+   128      16       8       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1106
+
+------ Game Counts:  18 ------
+- The Game is Over (max tile / max score): 1024.0
+   512    1024     256      64  
+    64     128      64      32  
+     8      16      32      16  
+     2       4       2       4  
+
+-* GAME LOST *-
+-* NO 2048 *-
+
+------ Game Counts:  19 ------
+- The Game is Over (max tile / max score): 4096.0
+     2       8       2       8  
+    16      64      16       2  
+   512     128      32       4  
+  4096      64       8       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  983
+
+------ Game Counts:  20 ------
+- The Game is Over (max tile / max score): 4096.0
+  4096     128      16       4  
+  2048     512      32       2  
+     2       8      64      16  
+     4      16       8       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  995
+
+------ Game Counts:  21 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       4      16       2  
+    16      64      32       8  
+   512    2048      64      16  
+     2     512       2       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  951
+
+------ Game Counts:  22 ------
+- The Game is Over (max tile / max score): 2048.0
+    64      32       2       4  
+   128      64       4       2  
+   512     128       8       4  
+     2    2048     128      16  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1275
+
+------ Game Counts:  23 ------
+- The Game is Over (max tile / max score): 4096.0
+  4096    2048     256      64  
+    16     512      32      16  
+     4      16       8       2  
+     2       4       2       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  976
+
+------ Game Counts:  24 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       8      16      64  
+     4      16      64     256  
+    32     128    1024       2  
+     4      64     256    2048  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1013
+
+------ Game Counts:  25 ------
+- The Game is Over (max tile / max score): 4096.0
+  4096    1024       4       2  
+  2048     128      32       4  
+    32      16       8      16  
+     2       4       2       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  962
+
+------ Game Counts:  26 ------
+- The Game is Over (max tile / max score): 4096.0
+     2       8      16       4  
+     4      32      64     256  
+     2      64     512    1024  
+     8       2    4096       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  982
+
+------ Game Counts:  27 ------
+- The Game is Over (max tile / max score): 4096.0
+     2    4096      64       2  
+     4    1024     128       4  
+   128      32      16       2  
+     8       2       8       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1050
+
+------ Game Counts:  28 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       8     128    2048  
+     4      32     256    1024  
+     2       8     128     512  
+     8      32     256       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  980
+
+------ Game Counts:  29 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       4       2       4  
+    64      16      32       8  
+   256     128      64      16  
+     2     512    1024    2048  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1003
+
+------ Game Counts:  30 ------
+- The Game is Over (max tile / max score): 2048.0
+     2      32    1024    2048  
+     8      64     512     256  
+     2       4      16      64  
+     8       2       8       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  998
+
+------ Game Counts:  31 ------
+- The Game is Over (max tile / max score): 2048.0
+     2    2048     512       2  
+     4     512     128     256  
+    16     256      32      64  
+     4       8      16       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1033
+
+------ Game Counts:  32 ------
+- The Game is Over (max tile / max score): 1024.0
+     2       8      64    1024  
+     4     128     512       2  
+    16      32      64     256  
+     4      16      32      64  
+
+-* GAME LOST *-
+-* NO 2048 *-
+
+------ Game Counts:  33 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       8       2    2048  
+     4      16      32     512  
+    16     128     256       4  
+     2       8      32      64  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  940
+
+------ Game Counts:  34 ------
+- The Game is Over (max tile / max score): 2048.0
+     2     256    1024    2048  
+    16      32     128     512  
+     2      16      32      64  
+     4       2       8      32  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1034
+
+------ Game Counts:  35 ------
+- The Game is Over (max tile / max score): 2048.0
+     8      16      32    2048  
+    16      64     128    1024  
+     4      16     512       2  
+     2       4       2       8  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1077
+
+------ Game Counts:  36 ------
+- The Game is Over (max tile / max score): 1024.0
+     2    1024      64       4  
+   512     256      16       8  
+    32     128      64      32  
+     2       4      16       8  
+
+-* GAME LOST *-
+-* NO 2048 *-
+
+------ Game Counts:  37 ------
+- The Game is Over (max tile / max score): 4096.0
+     2       8       4       2  
+   128      16      64     256  
+     2      32    1024       8  
+     8      16    4096       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1104
+
+------ Game Counts:  38 ------
+- The Game is Over (max tile / max score): 1024.0
+     2      16       2       4  
+    16      64     128     512  
+   128      16    1024       4  
+     2       8     256       2  
+
+-* GAME LOST *-
+-* NO 2048 *-
+
+------ Game Counts:  39 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       8       2       8  
+     4      16      64      16  
+     8      64    2048       8  
+     2       8     128       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1042
+
+------ Game Counts:  40 ------
+- The Game is Over (max tile / max score): 2048.0
+     2    1024    2048       2  
+   512      64     256       4  
+     4      32      64     512  
+    32       8     128       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1038
+
+------ Game Counts:  41 ------
+- The Game is Over (max tile / max score): 4096.0
+   256    1024    4096       2  
+     2      64     512     256  
+     4      32     128       8  
+     2       8      16       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1025
+
+------ Game Counts:  42 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       8      32       4  
+    16      64      16       8  
+  1024     256      32       2  
+  2048      32      16       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  983
+
+------ Game Counts:  43 ------
+- The Game is Over (max tile / max score): 2048.0
+     2      64      16       2  
+     4     512      32      16  
+  1024     256      16       2  
+  2048      16       8       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1000
+
+------ Game Counts:  44 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       8       2       4  
+    16      32      16       2  
+   256     128      64       8  
+  2048     512     128      16  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  978
+
+------ Game Counts:  45 ------
+- The Game is Over (max tile / max score): 2048.0
+  2048    1024       2      64  
+   256      64     256      16  
+    64      32       8       2  
+     2       8       2       4  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1035
+
+------ Game Counts:  46 ------
+- The Game is Over (max tile / max score): 4096.0
+     4      32       4       2  
+     8     512      64       8  
+    64     128       4    4096  
+     4    1024       2       8  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1020
+
+------ Game Counts:  47 ------
+- The Game is Over (max tile / max score): 4096.0
+     2       8      16       2  
+    16       4      32     256  
+     2     256     128    4096  
+     4     512    1024       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  951
+
+------ Game Counts:  48 ------
+- The Game is Over (max tile / max score): 4096.0
+     2       4     128       2  
+     4      32     512      64  
+     2       8      64    2048  
+     4      16    4096       2  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  939
+
+------ Game Counts:  49 ------
+- The Game is Over (max tile / max score): 2048.0
+     2       4    1024     512  
+  2048      64     256       2  
+    32      16      32      64  
+     4       8       2      16  
+
+-* Yay GAME WON *-
+-* Number of Steps at which 1st 2048 takes place:  1013
+
+------ Game Counts:  50 ------
+- The Game is Over (max tile / max score): 256.0
+     2       8       4       2  
+     4      64      32      16  
+     8     128     256     128  
+     2      64       2       8  
+
+-* GAME LOST *-
+-* NO 2048 *-
